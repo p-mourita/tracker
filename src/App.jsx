@@ -64,9 +64,9 @@ export default function ProjectTracker() {
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-gray-900 flex items-center gap-3">
             <TrendingUp className="text-blue-600" size={36} />
-            Ultimate Project Tracker
+            Project Tracker
           </h1>
-          <p className="text-gray-600 mt-2">Enterprise-grade project management</p>
+          <p className="text-gray-600 mt-2">STS Product Management</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
